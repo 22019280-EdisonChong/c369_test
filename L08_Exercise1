@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edison's Webpage</title>
+</head>
+<body>
+    <h1>My Webpage</h1>
+    <p>
+        Hi I'm Edison! Welcome to my webpage.
+    </p>
+    <p>
+        You can connect with me at my Facebook account (John Tan) <a href="https://www.Facebook.com">here!</a> </p>
+    </p>
+    <h1>My hobbies are </h1>
+    <p>
+        Playing with my <a href="https://bit.ly/fcc-relaxing-cat">cat</a> </p>
+    </p>
+</body>
+</html>
